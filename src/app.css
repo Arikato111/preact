@@ -6,9 +6,7 @@
 }
 
 .content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     margin-top: 100px;
 }
 
@@ -24,8 +22,8 @@
 .triangle {
     position: absolute;
     background-color: transparent;
-    border: 25px solid white;
-    padding: 60px;
+    border: 2.1vw solid white;
+    padding: 5vw;
     z-index: 1;
     animation: roling 10s infinite linear;
 }
