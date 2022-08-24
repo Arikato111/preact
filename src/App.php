@@ -17,7 +17,7 @@ $App = function () use ($title) {
         <h3 align="center">
           <a 
             target="_blank" 
-            href="https://github.com/Arikato111/PHP_SPA/tree/Preact"
+            href="https://github.com/Arikato111/preact"
             style="
               color:black;
               font-size:24px;
