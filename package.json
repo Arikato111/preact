@@ -1,0 +1,16 @@
+{
+    "name": "preact-app",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "package": {
+        "use-import": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/use-import/tree/master"
+        },
+        "preact": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/preact/tree/module"
+        }
+    }
+}
