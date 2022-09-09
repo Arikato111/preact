@@ -26,10 +26,15 @@
     padding: 5vw;
     z-index: -1;
     animation: roling 10s infinite linear;
+    border: 2px solid black;
+}
+.slow  {
+    animation: roling 20s reverse infinite linear;
 }
 .fixed {
     animation: roling 15s infinite linear;
-    background-color: black;
+    background-color: white;
+    border: 2px solid black;
     z-index: -2;
 }
 @keyframes roling {

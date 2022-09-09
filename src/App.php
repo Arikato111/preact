@@ -10,6 +10,7 @@ $App = function () use ($title) {
       <div>
         <div class="box">
           <div class="triangle"></div>
+          <div class="triangle slow"></div>
           <div class="triangle fixed"></div>
         </div>
         <h1 align="center">Welcome to Preact</h1>
